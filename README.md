@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Redux Toolkit App
+
+This project is a test run using the new redux toolkit for an opinionated appraoch to state management. 
 ## Available Scripts
 
 In the project directory, you can run:
